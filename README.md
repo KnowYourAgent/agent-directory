@@ -54,13 +54,5 @@ Then:
 ```bash
 npm run validate
 ```
-Finally, open a pull request with your changes, ensuring validation passes.
+Finally, open a pull request with your changes, ensuring validation passes ✌️
 
-## Customization
-- More complex transformations (minification, merging with external data, etc.).
-- Different output locations or formats (.json, .js, etc.).
-- Configuration-based build logic.
-- Advanced validation such as cross-checking capabilities against external references.
-
-## Metrics Overview
-See [src/types/Metric.ts](./src/types/Metric.ts) and [src/constants/schemas.ts](./src/constants/schemas.ts) for task-based metric definitions.
