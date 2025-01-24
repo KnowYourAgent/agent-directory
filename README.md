@@ -1,4 +1,4 @@
-# Agents Repository
+# Agents Repository ❤️
 
 This repository contains various autonomous, analytics, and marketing agents.  
 
