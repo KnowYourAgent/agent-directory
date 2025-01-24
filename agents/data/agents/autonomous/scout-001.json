@@ -1,0 +1,11 @@
+{
+    "id": "scout-001",
+    "name": "Network Scout",
+    "category": "autonomous",
+    "type": "monitoring_agent",
+      "creator": "0x3C4D5E6F7A8B9C0D1E2F3A4B5C6D7E8F9A0B1C2D",
+    "description": "Monitors network health and detects anomalies.",
+      "created_at": "2023-10-05T12:30:00Z",
+    "capabilities": ["network_monitoring", "anomaly_detection", "reporting"],
+    "tags": ["network", "autonomous", "monitoring"]
+  }

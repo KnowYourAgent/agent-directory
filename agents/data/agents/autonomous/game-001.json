@@ -1,0 +1,11 @@
+{
+    "id": "game-001",
+    "name": "G.A.M.E",
+    "category": "autonomous",
+    "type": "ai_agent",
+    "description": "Empowers AI agents to operate autonomously with memory and personality.",
+    "creator": "0x1C4C567890ABCDEF1234567890ABCDEF1234F463a3",
+    "created_at": "2023-09-23T00:00:00Z",
+    "capabilities": ["memory", "personality", "decision_making"],
+    "tags": ["blockchain", "autonomous"]
+  }

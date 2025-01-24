@@ -1,0 +1,11 @@
+{
+    "id": "copy-001",
+    "name": "Copy Assistant",
+    "category": "marketing",
+    "type": "content_agent",
+      "creator": "shantanu",
+      "created_at": "2023-10-18T14:20:00Z",
+    "description": "A writing assistant for generating marketing copy.",
+    "capabilities": ["content_generation", "copywriting", "keyword_research"],
+     "tags": ["marketing", "content", "ai"]
+  }

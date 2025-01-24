@@ -1,0 +1,11 @@
+{
+    "id": "flow-001",
+    "name": "Network Flow Analyzer",
+    "category": "analytics",
+    "type": "traffic_agent",
+    "description": "Analyzes network traffic patterns to identify bottlenecks.",
+     "creator": "0x6F7A8B9C0D1E2F3A4B5C6D7E8F9A0B1C2D345",
+    "created_at": "2023-10-15T09:00:00Z",
+    "capabilities": ["network_analysis", "bottleneck_detection"],
+    "tags": ["network", "analytics"]
+}

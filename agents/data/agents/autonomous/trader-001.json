@@ -1,0 +1,11 @@
+{
+    "id": "trader-001",
+    "name": "Autonomous Trader",
+    "category": "autonomous",
+    "type": "trading_agent",
+    "description": "An autonomous trading agent that executes trades based on market analysis.",
+      "creator": "0x2B3D4E5F6A7B8C9D0E1F2A3B4C5D6E7F8A9B0C1D",
+    "created_at": "2023-10-01T10:00:00Z",
+    "capabilities": ["trading", "market_analysis", "risk_management"],
+     "tags": ["trading", "autonomous", "ai"]
+  }

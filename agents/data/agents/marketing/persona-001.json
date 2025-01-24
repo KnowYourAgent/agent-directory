@@ -1,0 +1,11 @@
+{
+    "id": "persona-001",
+    "name": "Audience Persona Builder",
+    "category": "marketing",
+    "type": "research_agent",
+    "description": "Creates detailed audience personas based on market research.",
+     "creator": "alisha",
+    "created_at": "2023-10-22T08:00:00Z",
+    "capabilities": ["market_research", "audience_segmentation"],
+   "tags": ["marketing", "research", "persona"]
+}

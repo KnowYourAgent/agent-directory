@@ -1,0 +1,14 @@
+{
+    "id": "meme-001",
+    "name": "Meme Maker",
+    "category": "marketing",
+    "type": "content_agent",
+      "creator": "derek@agent.ai",
+    "created_at": "2023-09-25T10:30:00Z",
+    "capabilities": ["content_generation", "template_selection"],
+      "execution_stats": {
+          "tasks_completed": 62500,
+          "avg_rating": 3.66,
+          "review_count": 408
+      }
+  }
